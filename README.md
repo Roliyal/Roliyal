@@ -10,11 +10,6 @@
 <br />
 
 hi, i'm [issac](https://roliyal.com/), There will be many thorns in the forest
-
-
-
-
- #<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
   
 - 📧 any freelance work? do reach, [email](mailto:issac@roliyal.com) :)
 - 💬 ask me about anything, i am happy to help;
