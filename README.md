@@ -14,7 +14,7 @@ hi, i'm [issac](https://roliyal.com/), There will be many thorns in the forest
 
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
   
 - 📧 any freelance work? do reach, [email](mailto:issac@roliyal.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -34,11 +34,10 @@ Docker      1000 hrs 14 mins ██████▓░░░░░░░░░░
 go           99 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
 HTML         8 hrs           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
-
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+if you like what i do, maybe consider buying me a coffee/tea !
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/roliyal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
