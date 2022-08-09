@@ -3,6 +3,8 @@
 
 <a href="https://twitter.com/issacons">
   <img align="left" alt="issac | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://twitter.com/issacons">
+  <img align="left" alt="issac | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=roliyal.roliyal)
