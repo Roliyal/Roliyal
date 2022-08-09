@@ -22,14 +22,14 @@ hi, i'm [issac](https://roliyal.com/), There will be many thorns in the forest
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
-Kubenetes   1800 hrs 13 mins ███████████████▓░░░░░░░░░   63.28 %
-Docker      1000 hrs 14 mins ██████▓░░░░░░░░░░░░░░░░░░   26.34 %
-go           99 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-HTML         8 hrs           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Kubenetes   096 hrs 1 mins  ███████████████▓░░░░░░░░░   63.28 %
+Docker      009 hrs 12 mins ██████▓░░░░░░░░░░░░░░░░░░   26.34 %
+go           02 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+Python         17 hrs       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 <!--END_SECTION:waka-->
 
