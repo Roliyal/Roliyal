@@ -4,9 +4,9 @@
 <a href="https://twitter.com/issacons">
   <img align="left" alt="issac | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 <a href="https://twitter.com/issacons">
-  <img align="left" alt="issac | Wechat" width="22px" src="https://user-images.githubusercontent.com/96233798/183543156-4051b07a-905d-4b7d-9526-d5f0b4206abb.svg" />
-  ![image](https://user-images.githubusercontent.com/96233798/183543724-4f6101f8-b333-40d0-b077-45aad432323a.png)
-
+  <img align="left" alt="issac | Wechat" width="22px" src="https://user-images.githubusercontent.com/96233798/183544549-7749bbab-3d64-4ed9-aa93-76d71c700585.svg" />
+  
+ 
 ![](https://visitor-badge.glitch.me/badge?page_id=roliyal.roliyal)
 
 <br />
