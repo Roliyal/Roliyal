@@ -26,10 +26,10 @@ hi, i'm [issac](https://roliyal.com/), There will be many thorns in the forest
 <!--START_SECTION:waka-->
 
 ```text
-Kubenetes   096 hrs 1 mins  ███████████████▓░░░░░░░░░   63.28 %
+Kubenetes   096 hrs 01 mins ███████████████▓░░░░░░░░░   63.28 %
 Docker      009 hrs 12 mins ██████▓░░░░░░░░░░░░░░░░░░   26.34 %
-go           02 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
-Python       17 hrs         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+go          002 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+Python      017 hrs         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 <!--END_SECTION:waka-->
 
