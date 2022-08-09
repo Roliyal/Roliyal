@@ -4,7 +4,8 @@
 <a href="https://twitter.com/issacons">
   <img align="left" alt="issac | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 <a href="https://twitter.com/issacons">
-  <img align="left" alt="issac | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="issac | Wechat" width="22px" src="https://user-images.githubusercontent.com/96233798/183543156-4051b07a-905d-4b7d-9526-d5f0b4206abb.svg" />
+
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=roliyal.roliyal)
