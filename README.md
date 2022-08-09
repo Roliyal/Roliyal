@@ -13,7 +13,7 @@
 
 hi, i'm [issac](https://roliyal.com/), There will be many thorns in the forest
   
-- 📧 any freelance work? do reach, [email](mailto:issac@roliyal.com) :)
+- 📧 any freelance work? do reach, [e-mail](mailto:issac@roliyal.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
