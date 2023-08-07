@@ -2,7 +2,7 @@
 
 
 <a href="https://twitter.com/issacong5">
-  <img align="left" alt="issac | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="issac | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/x.svg" />
 <a href="https://twitter.com/issacong5">
   <img align="left" alt="issac | Wechat" width="22px" src="https://user-images.githubusercontent.com/96233798/183544549-7749bbab-3d64-4ed9-aa93-76d71c700585.svg" />
   
