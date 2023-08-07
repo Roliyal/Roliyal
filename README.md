@@ -2,7 +2,7 @@
 
 
 <a href="https://twitter.com/Roliyal_">
-  <img align="left" alt="issac | Twitter" width="22px" src="https://user-images.githubusercontent.com/96233798/183544549-7749bbab-3d64-4ed9-aa93-76d71c700585.svg" />
+  <img align="left" alt="issac | Twitter" width="22px" src="https://abs.twimg.com/responsive-web/client-web/icon-svg.168b89da.svg" />
 <a href="https://twitter.com/Roliyal_">
   <img align="left" alt="issac | Wechat" width="22px" src="https://user-images.githubusercontent.com/96233798/183544549-7749bbab-3d64-4ed9-aa93-76d71c700585.svg" />
   
